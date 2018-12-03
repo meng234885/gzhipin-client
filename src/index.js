@@ -8,7 +8,7 @@ import Login from './containers/login/login'
 import Register from './containers/register/register'
 import Main from './containers/main/main'
 
-import {Button} from 'antd-mobile'
+
 
 ReactDOM.render((
     <Provider store={store}>
